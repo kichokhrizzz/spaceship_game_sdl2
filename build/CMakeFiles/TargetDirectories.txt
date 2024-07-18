@@ -1,0 +1,3 @@
+/Users/jhoselbadillocortes/Documents/spaceship_game/build/CMakeFiles/spaceship.dir
+/Users/jhoselbadillocortes/Documents/spaceship_game/build/CMakeFiles/edit_cache.dir
+/Users/jhoselbadillocortes/Documents/spaceship_game/build/CMakeFiles/rebuild_cache.dir
